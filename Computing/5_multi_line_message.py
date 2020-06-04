@@ -1,0 +1,5 @@
+print('KEEP')
+print('CALM')
+print('and')
+print('CODE')
+print('PYTHON')
